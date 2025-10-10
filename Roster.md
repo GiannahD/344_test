@@ -12,3 +12,4 @@
 | Akash     | Java                          |
 | Connor    | Verilog                       |
 | Tejaswini | Verilog                       |
+| Giannah   | Python                        |
